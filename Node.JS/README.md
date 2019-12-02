@@ -19,4 +19,6 @@ Ok, it should be fair and we have a guy for that: conductor. He will give permis
 
 # Output format
 
-![output](https://pasteboard.co/IJqZftu.png)
+<p align="center">
+  <img src="exout.png">
+</p>

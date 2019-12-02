@@ -25,4 +25,6 @@ And here we have our waiter (all is nicely described in Node.js directory, here 
 
 # Output format
 
-![output](https://pasteboard.co/IJr8OBx.png)
+<p align="center">
+  <img src="exout.png">
+</p>

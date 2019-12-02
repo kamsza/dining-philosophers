@@ -16,10 +16,14 @@ Available are two formats:
 ## Normal
 One philosopher in one row, I think no comment needed.
 
-![normal](https://pasteboard.co/IJqLoDF.png)
+<p align="center">
+  <img src="exout.png">
+</p>
 
 
 ## Test
 One philosopher in one column, this numbers are times in ns showing how long must have he waited to get two forks and start eating.
 
-![test](https://pasteboard.co/IJqLF0N.png)
+<p align="center">
+  <img src="exout2.png">
+</p>
