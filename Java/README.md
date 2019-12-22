@@ -17,7 +17,7 @@ Available are two formats:
 One philosopher in one row, I think no comment needed.
 
 <p align="center">
-  <img src="exout.png">
+  <img src="out/exout.png">
 </p>
 
 
@@ -25,5 +25,5 @@ One philosopher in one row, I think no comment needed.
 One philosopher in one column, this numbers are times in ns showing how long must have he waited to get two forks and start eating.
 
 <p align="center">
-  <img src="exout2.png">
+  <img src="out/exout2.png">
 </p>

@@ -26,5 +26,5 @@ And here we have our waiter (all is nicely described in Node.js directory, here 
 # Output format
 
 <p align="center">
-  <img src="exout.png">
+  <img src="out/exout.png">
 </p>
